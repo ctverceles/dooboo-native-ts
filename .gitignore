@@ -1,3 +1,6 @@
+# secrets
+android/app/*.keystore
+
 # OSX
 #
 .DS_Store
